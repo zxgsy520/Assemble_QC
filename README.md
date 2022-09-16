@@ -6,5 +6,7 @@ Eukaryotic Genome Assembly Evaluation Software
 ./stat_genome genome.fasta -o stat_genome.tsv
 ./stat_genome genome.fasta -o stat_genome.tsv --split >contig.fasta
 ```
-![image](https://user-images.githubusercontent.com/36355222/190681636-5e82e801-3043-4597-b46f-263059aa3823.png)
+
+![image](https://user-images.githubusercontent.com/36355222/190681917-6e343699-e838-4fa4-bedb-8d189f2d0b0d.png)
+
 
